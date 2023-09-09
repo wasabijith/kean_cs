@@ -1,0 +1,204 @@
+                         The Car Online Marketplace Transactions Report for November, 2022, generated on 2022-12-09
+
+Purchase Date  Car Brand           Country             Car Type          Price, $            Special & Exclusive Feature(s)
+
+2022-11-02     "Genesis"           ROK                 Luxury              40328         2
+2022-11-02     "GMC"               USA                 Mass-Market         27725
+2022-11-02     "Chevrolet"         USA                 Mass-Market         12280
+2022-11-02     "Bentley"           UK                  Super-Luxury        79401         4                      Mood_Lighting
+2022-11-02     "KIA"               ROK                 Mass-Market         27105
+2022-11-02     "Ford"              USA                 Mass-Market         10215
+2022-11-02     "Jeep"              USA                 Mass-Market         10916
+2022-11-03     "Subaru"            Japan               Mass-Market         21930
+2022-11-03     "BMW"               Germany             Luxury              59439        10
+2022-11-03     "Ferrari"           Italy               Super-Luxury        84991         9                      Massage_Seats
+2022-11-03     "Maserati"          Italy               Super-Luxury        86562         2                       Heated_Seats
+2022-11-03     "Hyundai"           ROK                 Mass-Market         11485
+2022-11-04     "Volvo"             Sweden              Luxury              52410         4
+2022-11-04     "Tesla"             USA                 Luxury              42726         7
+2022-11-04     "Peugeot"           France              Mass-Market         12093
+2022-11-04     "Mercedes-Benz"     Germany             Luxury              58575         9
+2022-11-05     "Audi"              Germany             Luxury              46202         9
+2022-11-05     "Lexus"             Japan               Luxury              42450         3
+2022-11-05     "Lamborghini"       Italy               Super-Luxury        87746         1       Heated_And_Cooled_Cupholders
+2022-11-05     "Aston_Martin"      UK                  Super-Luxury        74501         4           Cabin_Atomizer_Fragrance
+2022-11-05     "Renault"           France              Mass-Market         14276
+2022-11-06     "Tesla"             USA                 Luxury              49976         8
+2022-11-06     "Maserati"          Italy               Super-Luxury        81683        10                      Massage_Seats
+2022-11-06     "Acura"             Japan               Luxury              44363         5
+2022-11-06     "Peugeot"           France              Mass-Market         19415
+2022-11-06     "Jaguar"            UK                  Luxury              52970         5
+2022-11-06     "Chevrolet"         USA                 Mass-Market         23254
+2022-11-07     "BMW"               Germany             Luxury              55207         3
+2022-11-07     "Lincoln"           USA                 Luxury              40623         7
+2022-11-07     "Chevrolet"         USA                 Mass-Market         20612
+2022-11-07     "KIA"               ROK                 Mass-Market         13388
+2022-11-07     "Dodge"             USA                 Mass-Market         27678
+2022-11-08     "Aston_Martin"      UK                  Super-Luxury        72376         4                     Folding_Tables
+2022-11-08     "Subaru"            Japan               Mass-Market         13041
+2022-11-08     "Lexus"             Japan               Luxury              53036        10
+2022-11-08     "Lincoln"           USA                 Luxury              45333         6
+2022-11-08     "Mercedes-Benz"     Germany             Luxury              41942         7
+2022-11-08     "Lincoln"           USA                 Luxury              42773         9
+2022-11-08     "Land_Rover"        UK                  Luxury              45315         1
+2022-11-08     "Subaru"            Japan               Mass-Market         15394
+2022-11-08     "GMC"               USA                 Mass-Market         29775
+2022-11-08     "KIA"               ROK                 Mass-Market         25108
+2022-11-08     "Honda"             Japan               Mass-Market         21739
+2022-11-08     "Peugeot"           France              Mass-Market         10781
+2022-11-09     "Jaguar"            UK                  Luxury              40635         9
+2022-11-09     "Lincoln"           USA                 Luxury              44763         7
+2022-11-09     "Genesis"           ROK                 Luxury              58635         8
+2022-11-09     "Lamborghini"       Italy               Super-Luxury        72927         4                Celestial_Headliner
+2022-11-09     "Peugeot"           France              Mass-Market         11771
+2022-11-09     "Mazda"             Japan               Mass-Market         16357
+2022-11-09     "BMW"               Germany             Luxury              56061         8
+2022-11-09     "Nissan"            Japan               Mass-Market         19238
+2022-11-09     "Maserati"          Italy               Super-Luxury        85386         5                     Folding_Tables
+2022-11-09     "Chevrolet"         USA                 Mass-Market         10776
+2022-11-09     "Buick"             USA                 Mass-Market         22094
+2022-11-10     "Hyundai"           ROK                 Mass-Market         22442
+2022-11-10     "Peugeot"           France              Mass-Market         13883
+2022-11-10     "Tesla"             USA                 Luxury              59192         5
+2022-11-10     "Jaguar"            UK                  Luxury              54529         5
+2022-11-10     "BMW"               Germany             Luxury              56118        10
+2022-11-10     "Bentley"           UK                  Super-Luxury        74273         6                       Rear_Seat_TV
+2022-11-10     "Bentley"           UK                  Super-Luxury        83448         8           Cabin_Atomizer_Fragrance
+2022-11-11     "GMC"               USA                 Mass-Market         17294
+2022-11-11     "Renault"           France              Mass-Market         21371
+2022-11-11     "Jaguar"            UK                  Luxury              45076         8
+2022-11-11     "Honda"             Japan               Mass-Market         11299
+2022-11-11     "Lexus"             Japan               Luxury              55956         2
+2022-11-11     "Tata"              India               Mass-Market         28221
+2022-11-11     "Cadillac"          USA                 Luxury              43119         5
+2022-11-11     "Land_Rover"        UK                  Luxury              40941         9
+2022-11-11     "Acura"             Japan               Luxury              50487         3
+2022-11-11     "Hyundai"           ROK                 Mass-Market         29072
+2022-11-12     "Subaru"            Japan               Mass-Market         21697
+2022-11-12     "Tesla"             USA                 Luxury              47605         2
+2022-11-12     "Acura"             Japan               Luxury              59647         7
+2022-11-12     "Land_Rover"        UK                  Luxury              47356         4
+2022-11-13     "Subaru"            Japan               Mass-Market         24162
+2022-11-13     "Acura"             Japan               Luxury              45178        10
+2022-11-13     "Toyota"            Japan               Mass-Market         19518
+2022-11-13     "Lexus"             Japan               Luxury              42517         4
+2022-11-13     "Porsche"           Germany             Luxury              55565         9
+2022-11-13     "Mazda"             Japan               Mass-Market         23193
+2022-11-14     "Aston_Martin"      UK                  Super-Luxury        86234         8                     LED_Projectors
+2022-11-14     "Peugeot"           France              Mass-Market         28283
+2022-11-14     "Ford"              USA                 Mass-Market         14846
+2022-11-14     "Toyota"            Japan               Mass-Market         10406
+2022-11-14     "Lexus"             Japan               Luxury              50483         9
+2022-11-15     "Cadillac"          USA                 Luxury              54736         6
+2022-11-15     "Jeep"              USA                 Mass-Market         27665
+2022-11-15     "Peugeot"           France              Mass-Market         21474
+2022-11-15     "Hyundai"           ROK                 Mass-Market         28009
+2022-11-15     "Buick"             USA                 Mass-Market         17684
+2022-11-16     "Maserati"          Italy               Super-Luxury        80061         5                       Heated_Seats
+2022-11-16     "Jeep"              USA                 Mass-Market         18984
+2022-11-16     "Tesla"             USA                 Luxury              42566         6
+2022-11-16     "Tata"              India               Mass-Market         23338
+2022-11-16     "Peugeot"           France              Mass-Market         28470
+2022-11-16     "Ferrari"           Italy               Super-Luxury        84317         8       Heated_And_Cooled_Cupholders
+2022-11-16     "Ford"              USA                 Mass-Market         24127
+2022-11-16     "Audi"              Germany             Luxury              48530        10
+2022-11-16     "Toyota"            Japan               Mass-Market         24160
+2022-11-16     "Ford"              USA                 Mass-Market         13567
+2022-11-17     "Ford"              USA                 Mass-Market         25020
+2022-11-17     "Volvo"             Sweden              Luxury              46677         4
+2022-11-17     "Land_Rover"        UK                  Luxury              40093         2
+2022-11-17     "Ford"              USA                 Mass-Market         22745
+2022-11-17     "Mercedes-Benz"     Germany             Luxury              59458         8
+2022-11-17     "Tata"              India               Mass-Market         22414
+2022-11-17     "Ferrari"           Italy               Super-Luxury        75425         7   Satellite-Aided_Car_Transmission
+2022-11-17     "Land_Rover"        UK                  Luxury              55859         1
+2022-11-17     "Ferrari"           Italy               Super-Luxury        83090         6                      Mood_Lighting
+2022-11-18     "Tesla"             USA                 Luxury              58279         6
+2022-11-18     "Maserati"          Italy               Super-Luxury        88550         9   Satellite-Aided_Car_Transmission
+2022-11-18     "Peugeot"           France              Mass-Market         12284
+2022-11-18     "Maserati"          Italy               Super-Luxury        71022         2       Heated_And_Cooled_Cupholders
+2022-11-18     "Ferrari"           Italy               Super-Luxury        71725        10       Heated_And_Cooled_Cupholders
+2022-11-18     "Land_Rover"        UK                  Luxury              41358         2
+2022-11-18     "Acura"             Japan               Luxury              51411        10
+2022-11-18     "Renault"           France              Mass-Market         25822
+2022-11-19     "Maserati"          Italy               Super-Luxury        78700         5                      Massage_Seats
+2022-11-19     "Toyota"            Japan               Mass-Market         19554
+2022-11-19     "Volkswagen"        Germany             Mass-Market         12173
+2022-11-19     "Ferrari"           Italy               Super-Luxury        81368         2                     Folding_Tables
+2022-11-19     "Toyota"            Japan               Mass-Market         19603
+2022-11-19     "Toyota"            Japan               Mass-Market         15013
+2022-11-19     "Lexus"             Japan               Luxury              40916         1
+2022-11-19     "Subaru"            Japan               Mass-Market         16223
+2022-11-20     "Toyota"            Japan               Mass-Market         10597
+2022-11-20     "Lincoln"           USA                 Luxury              54440         5
+2022-11-20     "Ford"              USA                 Mass-Market         14788
+2022-11-20     "Peugeot"           France              Mass-Market         25663
+2022-11-20     "Chevrolet"         USA                 Mass-Market         22809
+2022-11-20     "KIA"               ROK                 Mass-Market         25676
+2022-11-20     "BMW"               Germany             Luxury              58910         3
+2022-11-21     "Renault"           France              Mass-Market         18743
+2022-11-21     "Volvo"             Sweden              Luxury              57390         4
+2022-11-21     "Tesla"             USA                 Luxury              44594         3
+2022-11-21     "Subaru"            Japan               Mass-Market         15398
+2022-11-21     "Genesis"           ROK                 Luxury              43000         9
+2022-11-21     "Jeep"              USA                 Mass-Market         27232
+2022-11-21     "Ford"              USA                 Mass-Market         20330
+2022-11-21     "Tata"              India               Mass-Market         23408
+2022-11-21     "Maserati"          Italy               Super-Luxury        76334         3           Cabin_Atomizer_Fragrance
+2022-11-22     "Cadillac"          USA                 Luxury              45588         1
+2022-11-22     "Honda"             Japan               Mass-Market         28982
+2022-11-22     "Land_Rover"        UK                  Luxury              49134         8
+2022-11-22     "Mazda"             Japan               Mass-Market         25842
+2022-11-22     "Lexus"             Japan               Luxury              48086         7
+2022-11-22     "Dodge"             USA                 Mass-Market         18725
+2022-11-22     "Honda"             Japan               Mass-Market         11666
+2022-11-22     "Lincoln"           USA                 Luxury              43848         9
+2022-11-23     "Acura"             Japan               Luxury              45376         1
+2022-11-23     "Acura"             Japan               Luxury              59699         1
+2022-11-23     "Aston_Martin"      UK                  Super-Luxury        80865         7                       Rear_Seat_TV
+2022-11-23     "KIA"               ROK                 Mass-Market         19564
+2022-11-23     "GMC"               USA                 Mass-Market         20630
+2022-11-23     "Honda"             Japan               Mass-Market         20642
+2022-11-23     "Subaru"            Japan               Mass-Market         18962
+2022-11-24     "Jaguar"            UK                  Luxury              55199        10
+2022-11-24     "Porsche"           Germany             Luxury              53620         4
+2022-11-24     "Audi"              Germany             Luxury              56925         4
+2022-11-24     "Volvo"             Sweden              Luxury              50636         6
+2022-11-24     "Mercedes-Benz"     Germany             Luxury              47860         9
+2022-11-24     "Buick"             USA                 Mass-Market         18761
+2022-11-25     "Mazda"             Japan               Mass-Market         22331
+2022-11-25     "Toyota"            Japan               Mass-Market         15072
+2022-11-25     "Volkswagen"        Germany             Mass-Market         15005
+2022-11-25     "Dodge"             USA                 Mass-Market         25245
+2022-11-25     "Buick"             USA                 Mass-Market         27487
+2022-11-25     "Porsche"           Germany             Luxury              53946         1
+2022-11-25     "Ferrari"           Italy               Super-Luxury        78180         4                       Heated_Seats
+2022-11-26     "Bentley"           UK                  Super-Luxury        73563         7                      Massage_Seats
+2022-11-26     "Porsche"           Germany             Luxury              47473         6
+2022-11-26     "Toyota"            Japan               Mass-Market         29611
+2022-11-26     "Bentley"           UK                  Super-Luxury        78100         1                     Folding_Tables
+2022-11-26     "Renault"           France              Mass-Market         18832
+2022-11-26     "Acura"             Japan               Luxury              54477         3
+2022-11-27     "Buick"             USA                 Mass-Market         27640
+2022-11-27     "Honda"             Japan               Mass-Market         16554
+2022-11-27     "Genesis"           ROK                 Luxury              59197         6
+2022-11-27     "BMW"               Germany             Luxury              51970         2
+2022-11-27     "Lexus"             Japan               Luxury              40653         6
+2022-11-27     "Ferrari"           Italy               Super-Luxury        77099         6                Celestial_Headliner
+2022-11-27     "Maserati"          Italy               Super-Luxury        78973        10       Heated_And_Cooled_Cupholders
+2022-11-27     "Tesla"             USA                 Luxury              58225         8
+2022-11-27     "Toyota"            Japan               Mass-Market         26152
+2022-11-27     "Mercedes-Benz"     Germany             Luxury              46517         7
+2022-11-28     "Hyundai"           ROK                 Mass-Market         26538
+2022-11-28     "Lexus"             Japan               Luxury              43199         7
+2022-11-28     "Ford"              USA                 Mass-Market         13932
+2022-11-28     "Volkswagen"        Germany             Mass-Market         27295
+2022-11-28     "Maserati"          Italy               Super-Luxury        80079         7                       Heated_Seats
+2022-11-28     "Mercedes-Benz"     Germany             Luxury              47816         1
+2022-11-28     "Tata"              India               Mass-Market         21648
+2022-11-28     "KIA"               ROK                 Mass-Market         13948
+2022-11-29     "Tata"              India               Mass-Market         17047
+2022-11-29     "Lamborghini"       Italy               Super-Luxury        80930         8       Heated_And_Cooled_Cupholders
+2022-11-29     "Tesla"             USA                 Luxury              47220         5
+2022-11-29     "BMW"               Germany             Luxury              46234         3
+2022-11-29     "Aston_Martin"      UK                  Super-Luxury        78515         7                      Mood_Lighting
