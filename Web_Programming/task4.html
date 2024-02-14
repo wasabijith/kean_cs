@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Flexbox: Task 4</title>
+
+    <style>
+      body {
+        background-color: #fff;
+        color: #333;
+        font:
+          1.2em / 1.5 Helvetica Neue,
+          Helvetica,
+          Arial,
+          sans-serif;
+        padding: 1em;
+        margin: 0;
+      }
+
+      ul {
+        width: 450px;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      li {
+        background-color: #4d7298;
+        border: 2px solid #77a6b6;
+        border-radius: 0.5em;
+        color: #fff;
+        padding: 0.5em;
+        margin: 0.5em;
+        flex-basis: calc(25% - 1em); /* 25% width minus margin */
+      }
+
+      /* Target the first 4 list items */
+      li:nth-child(-n+4) {
+        flex-basis: calc(25% - 1em); /* Set width for first 4 items */
+      }
+
+      /* Target the next 3 list items */
+      li:nth-child(n+5):nth-child(-n+7) {
+        flex-basis: calc(33.33% - 1em); /* Set width for next 3 items */
+      }
+    </style>
+  </head>
+
+  <body>
+    <ul>
+      <li>Abi</li>  
+      <li>Turnip</li>
+      <li>greens</li>
+      <li>yarrow</li>
+      <li>ricebean</li>
+      <li>rutabaga</li>
+      <li>endive</li>
+      <li>cauliflower</li>
+      <li>sea lettuce</li>
+      <li>kohlrabi</li>
+      <li>amaranth</li>
+    </ul>
+  </body>
+</html>
